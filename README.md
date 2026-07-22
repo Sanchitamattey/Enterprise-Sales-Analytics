@@ -12,7 +12,6 @@ The platform analyzes sales data, performs data cleaning, generates business KPI
 - Matplotlib
 - Git
 - GitHub
-
 ## Status
 
 🚧 Project Under Development
